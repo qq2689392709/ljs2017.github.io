@@ -79,6 +79,12 @@ NexT.utils = NexT.$u = {
     $top.on('click', function () {
       $('body').velocity('scroll');
     });
+    function t() {
+      a.toggleClass("back-to-top-on", 50 < window.pageYOffset);
+      var t = $(window).scrollTop() / NexT.utils.getContentVisibilityHeight(),
+          e = Math.round(100 * t),
+          i = 100 < e ? 100 : e;
+      $("#scrollpercent>span").html(i)
   },
 
   /**

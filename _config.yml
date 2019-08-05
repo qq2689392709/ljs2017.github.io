@@ -1,20 +1,20 @@
-# ---------------------------------------------------------------
+﻿# ---------------------------------------------------------------
 # Jekyll & Global Configuration
 ## Docs: https://jekyllrb.com/docs/configuration/
 # ---------------------------------------------------------------
 
 # Site
-title: Streamelody
-subtitle: Days in a Green Hill
-description: 小河流我愿待在你身旁 听你唱永恒的歌声
-author: 小溪之歌
+title: Python之旅
+subtitle: 人生苦短
+description: 
+author: 骆江尚
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: zh-Hans
 date_format: '%Y-%m-%d'
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com' and baseurl as '/child'
-url: https://streamelody.github.io/
+url: https://qq2689392709.github.io/ljs2017.github.io/
 baseurl:
 
 permalink: /:year/:month/:title/
@@ -217,10 +217,10 @@ font:
 # Key is the link label showing to end users.
 # Value is the target link (E.g. GitHub: https://github.com/iissnan)
 social:
-  GitHub: https://github.com/streamelody
-  Email: shuangyeying@gmail.com
-  Facebook: https://facebook.com/streamelody
-  Weibo: http://www.weibo.com/bailuer
+  GitHub: https://github.com/qq2689392709
+  Email: 2689392709@qq.com
+  Facebook: #
+  Weibo: #
 
 # Social Links Icons
 # Icon Mapping:
@@ -238,8 +238,8 @@ social_icons:
 
 
 # Sidebar Avatar
-# in directory: /assets/images/avatar.gif
-avatar: /assets/images/avatar.gif
+# in directory: /assets/images/avatar.jpg
+avatar: /assets/images/avatar.jpg
 
 
 # Table Of Contents in the Sidebar
