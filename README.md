@@ -1,6 +1,6 @@
 # leopard
 
-[leopard](http://baixin.io) 是一个简洁的博客模板，如果你喜欢也能使用.
+[leopard](http://baixin.io) 是一个简洁的博客模板，如果你也喜欢请 Star ，你的 Star 是我持续更新的动力, 谢谢 😄.
 
 ### 使用手册
 
@@ -57,11 +57,27 @@ Jekyll 需要依赖：Ruby、bundler
 
 如果你只想要我博客里的头像效果，你只需要拿 leopardpan.github.io/_includes/side-panel.html 文件里面 `头像效果` 和 leopardpan.github.io/css/main.css 里面最后面 `头像效果` 部分就行了。
 
+
 ***
 
 #### 博客首页   
 
 ![](/images/readme//img4.png)   
+
+***  
+
+#### 文章详情   
+
+
+
+![](/images/readme//img3.png)
+
+
+![](/images/readme//img2.png)
+
+
+![](/images/readme//img1.png)
+
 
 #### 感谢   
 
